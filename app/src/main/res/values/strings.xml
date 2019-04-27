@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SemanaUno</string>
+    <string name="edit_text_hint">Ingrese su nombre</string>
+    <string name="button_change_content">Cambiar</string>
+    <string name="button_new_screen">Nueva Pantalla</string>
+    <string name="textViewNew">New Activity</string>
+
+</resources>
